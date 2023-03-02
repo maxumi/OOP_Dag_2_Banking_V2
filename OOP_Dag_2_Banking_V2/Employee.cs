@@ -40,7 +40,6 @@ namespace OOP_Dag_2_Banking_V2
                         );
                         Account.SeeAccounts();
                         Console.ReadLine();
-                        Program.StartMenu();
                     }
                 }
             }
@@ -62,7 +61,7 @@ namespace OOP_Dag_2_Banking_V2
                 );
                 SeeAllCustomers();
                 Console.ReadLine();
-                Program.StartMenu();
+                Menu.StartMenu();
             }
         }
     }

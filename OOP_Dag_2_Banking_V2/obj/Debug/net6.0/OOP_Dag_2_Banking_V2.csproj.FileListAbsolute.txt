@@ -28,3 +28,18 @@ C:\Users\mumse\Desktop\Skole Programering\h1\OOP_Dag_2_Banking_V2\obj\Debug\net6
 C:\Users\mumse\Desktop\Skole Programering\h1\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.pdb
 C:\Users\mumse\Desktop\Skole Programering\h1\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.genruntimeconfig.cache
 C:\Users\mumse\Desktop\Skole Programering\h1\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\ref\OOP_Dag_2_Banking_V2.dll
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\bin\Debug\net6.0\OOP_Dag_2_Banking_V2.exe
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\bin\Debug\net6.0\OOP_Dag_2_Banking_V2.deps.json
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\bin\Debug\net6.0\OOP_Dag_2_Banking_V2.runtimeconfig.json
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\bin\Debug\net6.0\OOP_Dag_2_Banking_V2.dll
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\bin\Debug\net6.0\OOP_Dag_2_Banking_V2.pdb
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.csproj.AssemblyReference.cache
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.AssemblyInfoInputs.cache
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.AssemblyInfo.cs
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.csproj.CoreCompileInputs.cache
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.dll
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\refint\OOP_Dag_2_Banking_V2.dll
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.pdb
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\OOP_Dag_2_Banking_V2.genruntimeconfig.cache
+C:\Users\mumse\Source\Repos\OOP_Dag_2_Banking_V2\OOP_Dag_2_Banking_V2\obj\Debug\net6.0\ref\OOP_Dag_2_Banking_V2.dll

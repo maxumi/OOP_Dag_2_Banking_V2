@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -21,49 +22,37 @@ namespace OOP_Dag_2_Banking_V2
         }
         public void TransferMoney()
         {
-            Console.WriteLine("Which account do you want to transfer from?");
+            Console.WriteLine("Which account do you want to transfer from and to?");
+            Console.Write("From: ");
             int accountID1 = int.Parse(Console.ReadLine());
             bool truecheck1 = false;
-            foreach (Account account in Data.AccountsList)
-            {
-                if (account.AccountID == accountID1)
-                {
-                    truecheck1 = true;
-                }
-            }
-            Console.WriteLine("Which account do you want to transfer To?");
+            Console.Write("To: ");
             int accountID2 = int.Parse(Console.ReadLine());
             bool truecheck2 = false;
-            foreach (Account account in Data.AccountsList)
+            Console.WriteLine("How much do you want to transfer");
+            Console.Write("Amount: ");
+            int Amount = int.Parse(Console.ReadLine());
+            foreach (Account accountFrom in Data.AccountsList)
             {
-                if (account.AccountID == accountID2)
-                {
-                    truecheck2 = true;
-                }
-            }
-            if (truecheck1 && truecheck2 == true)
-            {
-                Console.WriteLine("How much do you want to transfer");
-                int Amount = int.Parse(Console.ReadLine());
-                foreach (Account account in Data.AccountsList)
-                {
-                    if (account.AccountID == accountID1)
+                if (accountFrom.AccountID == accountID1){
+                    truecheck1 = true;
+                    foreach (Account accountTo in Data.AccountsList)
                     {
-                        account.Balance = account.Balance - Amount;
-                        Transaction.TransactionData("-", account, Amount);
+                        if (accountTo.AccountID == accountID2)
+                        {
+                            truecheck2 = true;
+                            if (truecheck1 == true && truecheck2 == true)
+                            {
+                                accountFrom.Balance -= Amount;
+                                accountTo.Balance += Amount;
+                                Transaction.TransactionData("-", accountFrom, Amount);
+                                Transaction.TransactionData("+", accountTo, Amount);
+                                Console.WriteLine("Transfer complete");
+                            }
+                        }
                     }
                 }
-                foreach (Account account in Data.AccountsList)
-                {
-                    if (account.AccountID == accountID2)
-                    {
-                        account.Balance = account.Balance + Amount;
-                        Transaction.TransactionData("+", account, Amount);
-                    }
-                }
-                this.SeeCustomerAccounts();
             }
-
         }
     }
 }

@@ -37,7 +37,7 @@ namespace OOP_Dag_2_Banking_V2
                         int Amount = int.Parse(Console.ReadLine());
                         account.Balance += Amount;
                         Transaction.TransactionData("+", account, Amount);
-                        Program.StartMenu();
+                        Menu.StartMenu();
                     }
                 }
             }
@@ -54,7 +54,7 @@ namespace OOP_Dag_2_Banking_V2
                         int Amount = int.Parse(Console.ReadLine());
                         account.Balance -= Amount;
                         Transaction.TransactionData("-", account, Amount);
-                        Program.StartMenu();
+                        Menu.StartMenu();
                     }
                 }
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mumse\\Desktop\\Skole Programering\\h1\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj": {}
+    "C:\\Users\\mumse\\Source\\Repos\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mumse\\Desktop\\Skole Programering\\h1\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj": {
+    "C:\\Users\\mumse\\Source\\Repos\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mumse\\Desktop\\Skole Programering\\h1\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj",
+        "projectUniqueName": "C:\\Users\\mumse\\Source\\Repos\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj",
         "projectName": "OOP_Dag_2_Banking_V2",
-        "projectPath": "C:\\Users\\mumse\\Desktop\\Skole Programering\\h1\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj",
+        "projectPath": "C:\\Users\\mumse\\Source\\Repos\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2.csproj",
         "packagesPath": "C:\\Users\\mumse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mumse\\Desktop\\Skole Programering\\h1\\OOP_Dag_2_Banking_V2\\obj\\",
+        "outputPath": "C:\\Users\\mumse\\Source\\Repos\\OOP_Dag_2_Banking_V2\\OOP_Dag_2_Banking_V2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mumse\\AppData\\Roaming\\NuGet\\NuGet.Config",
